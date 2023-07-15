@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "-y",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irwinj7/budget-app-server.git"
+  },
+  "author": "Irwin Jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irwinj7/budget-app-server/issues"
+  },
+  "homepage": "https://github.com/Irwinj7/budget-app-server#readme"
+}
