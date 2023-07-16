@@ -11,11 +11,11 @@ app.use(cors());
 
 // ROUTES
 app.get("/", (req, res) => {
-  res.send("Welcome to budget app");
+  res.send("Welcome to Captain's Log");
 });
 
-const logsController = require("./controllers/inputController.js");
-app.use("/input", logsController)
+const logsController = require("./controllers/logsController.js");
+app.use("/logs", logsController)
 
 // 404 page
 app.get("*", (req, res) => {

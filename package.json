@@ -8,10 +8,10 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "name": "-y",
+  "name": "budget-app",
   "description": "",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Irwinj7/budget-app-server.git"
