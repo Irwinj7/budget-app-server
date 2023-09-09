@@ -35,6 +35,13 @@ module.exports = [
     amount: 75,
   },
   {
+    date: "May 27",
+    transDesc: "Deposit",
+    detailDesc: "Direct deposit Paycheck",
+    onlineTrans: true,
+    amount: 300,
+  },
+  {
     date: "May 29",
     transDesc: "Date Night",
     detailDesc: "Date night with wife",
@@ -70,6 +77,13 @@ module.exports = [
     amount: 30,
   },
   {
+    date: "July 1",
+    transDesc: "Deposit",
+    detailDesc: "Direct deposit Paycheck",
+    onlineTrans: true,
+    amount: 350,
+  },
+  {
     date: "July 4",
     transDesc: "Fireworks",
     detailDesc: "donated to community fireworks show",
@@ -103,6 +117,13 @@ module.exports = [
     detailDesc: "Vets are expensive",
     onlineTrans: false,
     amount: 120,
+  },
+  {
+    date: "August 3",
+    transDesc: "Deposit",
+    detailDesc: "Direct deposit paycheck",
+    onlineTrans: true,
+    amount: 490,
   },
   {
     date: "August 5",
